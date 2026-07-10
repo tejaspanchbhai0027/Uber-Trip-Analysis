@@ -239,12 +239,6 @@ This project is created for educational purposes and portfolio demonstration.
 
 **Tejas Panchbhai**
 
-📧 Email: your-email@example.com
-
-🔗 GitHub: https://github.com/your-username
-
-🔗 LinkedIn: https://linkedin.com/in/your-profile
-
 ---
 
 ⭐ **If you found this project helpful, please consider giving it a Star on GitHub!**
